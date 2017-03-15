@@ -1,0 +1,1 @@
+<p>Hello, <?php echo $country; ?>!  <?php echo $village; ?></p>

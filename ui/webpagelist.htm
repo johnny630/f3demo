@@ -1,0 +1,8 @@
+<p>{{ @_hello ,'johnny' | format }}, {{ @country }}!  {{ @village }}</p>
+{{ @LANGUAGE }}
+
+<ul>
+<repeat group="{{ @result }}" key="{{ @key }}" value="{{ @item }}">
+    <li>{{@key}} / {{ @item  }}</li>
+</repeat>
+</ul>

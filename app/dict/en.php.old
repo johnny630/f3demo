@@ -1,0 +1,6 @@
+<?php
+return array(
+    '_hello' => 'Hello {0}',
+    '_world' => 'World',
+);
+?>

@@ -1,0 +1,1 @@
+<h2><?php echo \Base::instance()->format($_Home['hello'], $userName); ?> <?php echo $_Home['world']; ?></h2>
